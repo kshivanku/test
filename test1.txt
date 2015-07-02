@@ -1,3 +1,7 @@
 test
 This is the first change in the main line
 This is the secong change in the main line
+This is the first change in the main line
+This is the changein the new branch
+This is the third change in newbranch
+
